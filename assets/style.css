@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oooh Baby', cursive;
+}
+header {
+    background-color: gray;
+    padding: 5px;
+    margin: 0px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    background-color: gray;
+    display:inline;
+}
+h2 {
+    /* background-color: rgb(129, 93, 129); */
+    color: black;
+    height: 30px;
+    width: 600px;
+}
+nav {
+    float: right; 
+}
+span{
+    display:inline 
+
+}
+body {
+    background-color: lightgray;
+}
+main{
+    display:flex;
+    flex-direction: column;
+}
+h4 {
+    background-color: rgb(129, 102, 129);
+    height: 80px;
+    width: 200px;
+    padding: 10px;
+    position: absolute;
+    right:16px;
+    bottom:8px;
+}
+nav a, div a {
+    color: rgb(75, 4, 75);
+    text-decoration: underline;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+h1 {
+    width: 20%; 
+    border-right: 5px solid;
+    border-color: rgb(129, 93, 129);
+}
+h5{
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+}
+.bg-img {
+    opacity: 0.7;
+    width: 100%;
+    height: 200px;
+}
+.sidebody{
+    display: flex;
+    flex-flow: wrap;
+    width:70%;
+    justify-content: space-around;
+}
+.sideContainer{
+    display: flex;
+    flex-flow: wrap;
+    width:70%;
+    justify-content: flex-end;
+}
+#head{
+    position: relative; 
+}
+#projectPic{
+    opacity:0.9;
+}
