@@ -5,8 +5,12 @@ No installation required.
 
 When opening the site you will come to the home page. The navigation bar currently is a placeholder for soon to be working pages. At this time I do not have completed projects so the links will not direct you to a final project, currently I have placeholders. The contact information will provide my contact information.
 
-HTML CSS and Bootstrap were utilized in the making of this project
+HTML CSS and Bootstrap were utilized in the making of this project.
+
+Site is live via https://denisearevalo.github.io/portfolio-update/
 
 No license "WIP."
 
 Kindly, Denise A
+
+![load page](/assets/images/portfolio.gif)
